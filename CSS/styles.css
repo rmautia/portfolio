@@ -1,17 +1,23 @@
 h1{
   color: blue;
-  text-align: center;
+  text-align: left;
   font-family: sans-serif;
 }
 h2{
-  color: green;
+  color: orange;
 }
 p {
-  font-size: 40px
+  font-size: 20px;
 }
 ul{
   color: #33FF48;
 }
 ol{
   color: #780273;
+}
+h3{
+  color: #780222;
+}
+p{
+  color: #16A085 ;
 }
