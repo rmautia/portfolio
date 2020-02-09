@@ -38,11 +38,17 @@ img{
   color: darkgreen;
 }
 .sidebar {
-  width: 15%;
+  width: 10%;
   float: center;
   background-color: yellowgreen;
 }
 .column {
-    width: 350px;
+    width: 150px;
     float: left;
+  }
+  .sidebar{
+    float: right;
+  }
+  .observe{
+    color: red;
   }
