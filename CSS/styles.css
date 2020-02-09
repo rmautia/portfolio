@@ -59,3 +59,7 @@ img{
     margin: 20px;
     background-color: yellowgreen;
 }
+.cas p{
+  font font-family: inherit;
+  font-style: italic;
+}
