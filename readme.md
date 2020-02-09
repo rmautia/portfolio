@@ -3,8 +3,7 @@
 #### By *Raphael*
 ##
 This website contains my personal profile, my interests/skill/hobbies and reasons for my choice of Moringa.
-website can be accessed online at 
-## Support +123455795575
+website can be accessed online at https://github.com/rmautia/portfolio.git
 ### License
-*https://choosealicense.com/licenses/mit/.*
-Copyright (c) 2020 **Moringa Society**
+*http://opensource.org/licenses/mit-license.php.*
+Copyright (c) 2020 **ralphroyalproductions**
