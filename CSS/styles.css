@@ -19,11 +19,17 @@ h3{
   color: #780222;
 }
 p{
-  color: #16A085 ;
+  color: black;
 }
 .important{
   font-family: fantasy;
 }
 .unimportant{
-background-color: lightblue; 
+background-color: lightblue;
+}
+.key{
+  color: yellow;
+}
+img{
+  float: left;
 }
