@@ -63,3 +63,7 @@ img{
   font font-family: inherit;
   font-style: italic;
 }
+.fin p{
+  font-weight: bold;
+  color: darkgreen;
+}
